@@ -6,4 +6,4 @@ Meu nome é Apoliana Marczak
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://media.tenor.com/ETKFfB8n-dwAAAAC/cristiano-ronaldo.gif)
+![](https://media.tenor.com/l95sYC9aZMwAAAAd/real-madrid.gif)
